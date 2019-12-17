@@ -1,0 +1,18 @@
+<input class="form-control" required type="text" id="taskName" name="taskName">
+
+
+
+    <div class="form-group form-group-sm row">
+                        <label class="col-sm-2  control-label" for="addTaskName">
+                            <span class="nt-text-mustinput">*</span>流程名称:
+                        </label>
+                        <div class="col-sm-4">
+                            <input class="form-control" required type="text" id="taskName" name="taskName">
+                        </div>
+                        <label class="col-sm-2  control-label" for="shortName">
+                            <span class="nt-text-mustinput">*</span>所有者:
+                        </label>
+                        <div class="col-sm-4">
+                            <select class="form-control" type="text" id="ownerId" name="ownerId"></select>
+                        </div>
+                    </div>

@@ -1,0 +1,13 @@
+﻿<UserControl xmlns:my="clr-namespace:WpfApplication3"  x:Class="WpfApplication3.UserControl1"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" d:DesignHeight="284" d:DesignWidth="532" BorderThickness="1">
+    <WrapPanel >
+        <my:KeyValueInfo  Margin="10" KVTitle="ID" KVContent="ID"/>
+        <my:KeyValueInfo  Margin="10" KVTitle="表名称" KVContent="表名称"/>
+        <my:KeyValueInfo  Margin="10" KVTitle="说明" KVContent="说明"/>
+    </WrapPanel>
+
+</UserControl>

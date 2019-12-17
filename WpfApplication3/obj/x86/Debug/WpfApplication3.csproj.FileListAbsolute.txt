@@ -1,0 +1,226 @@
+C:\Users\maliang.GWFRONT1\documents\visual studio 2010\Projects\WpfApplication3\WpfApplication3\bin\Debug\WpfApplication3.exe.config
+C:\Users\maliang.GWFRONT1\documents\visual studio 2010\Projects\WpfApplication3\WpfApplication3\bin\Debug\WpfApplication3.exe
+C:\Users\maliang.GWFRONT1\documents\visual studio 2010\Projects\WpfApplication3\WpfApplication3\bin\Debug\WpfApplication3.pdb
+C:\Users\maliang.GWFRONT1\documents\visual studio 2010\Projects\WpfApplication3\WpfApplication3\obj\x86\Debug\MainWindow.baml
+C:\Users\maliang.GWFRONT1\documents\visual studio 2010\Projects\WpfApplication3\WpfApplication3\obj\x86\Debug\MainWindow.g.cs
+C:\Users\maliang.GWFRONT1\documents\visual studio 2010\Projects\WpfApplication3\WpfApplication3\obj\x86\Debug\App.g.cs
+C:\Users\maliang.GWFRONT1\documents\visual studio 2010\Projects\WpfApplication3\WpfApplication3\obj\x86\Debug\WpfApplication3_MarkupCompile.cache
+C:\Users\maliang.GWFRONT1\documents\visual studio 2010\Projects\WpfApplication3\WpfApplication3\obj\x86\Debug\WpfApplication3.g.resources
+C:\Users\maliang.GWFRONT1\documents\visual studio 2010\Projects\WpfApplication3\WpfApplication3\obj\x86\Debug\WpfApplication3.Properties.Resources.resources
+C:\Users\maliang.GWFRONT1\documents\visual studio 2010\Projects\WpfApplication3\WpfApplication3\obj\x86\Debug\WpfApplication3.csproj.GenerateResource.Cache
+C:\Users\maliang.GWFRONT1\documents\visual studio 2010\Projects\WpfApplication3\WpfApplication3\obj\x86\Debug\WpfApplication3.exe
+C:\Users\maliang.GWFRONT1\documents\visual studio 2010\Projects\WpfApplication3\WpfApplication3\obj\x86\Debug\WpfApplication3.pdb
+D:\Work\WpfApplication3\WpfApplication3\bin\Debug\WpfApplication3.exe.config
+D:\Work\WpfApplication3\WpfApplication3\obj\x86\Debug\WpfApplication3.exe
+D:\Work\WpfApplication3\WpfApplication3\obj\x86\Debug\WpfApplication3.pdb
+D:\Work\WpfApplication3\WpfApplication3\bin\Debug\WpfApplication3.exe
+D:\Work\WpfApplication3\WpfApplication3\bin\Debug\WpfApplication3.pdb
+D:\Work\WpfApplication3\WpfApplication3\obj\x86\Debug\MainWindow.baml
+D:\Work\WpfApplication3\WpfApplication3\obj\x86\Debug\MainWindow.g.cs
+D:\Work\WpfApplication3\WpfApplication3\obj\x86\Debug\App.g.cs
+D:\Work\WpfApplication3\WpfApplication3\obj\x86\Debug\WpfApplication3_MarkupCompile.cache
+D:\Work\WpfApplication3\WpfApplication3\obj\x86\Debug\WpfApplication3.g.resources
+D:\Work\WpfApplication3\WpfApplication3\obj\x86\Debug\WpfApplication3.Properties.Resources.resources
+D:\Work\WpfApplication3\WpfApplication3\obj\x86\Debug\WpfApplication3.csproj.GenerateResource.Cache
+D:\Work\WpfApplication3\WpfApplication3\obj\x86\Debug\Window1.baml
+D:\Work\WpfApplication3\WpfApplication3\obj\x86\Debug\Window1.g.cs
+D:\Work\WpfApplication3\WpfApplication3\obj\x86\Debug\UserControl1.baml
+D:\Work\WpfApplication3\WpfApplication3\obj\x86\Debug\Window2.baml
+D:\Work\WpfApplication3\WpfApplication3\obj\x86\Debug\UserControl1.g.cs
+D:\Work\WpfApplication3\WpfApplication3\obj\x86\Debug\Window2.g.cs
+D:\Work\SQL Server工具\WpfApplication3\bin\Debug\WpfApplication3.exe.config
+D:\Work\SQL Server工具\WpfApplication3\obj\x86\Debug\WpfApplication3.exe
+D:\Work\SQL Server工具\WpfApplication3\obj\x86\Debug\WpfApplication3.pdb
+D:\Work\SQL Server工具\WpfApplication3\bin\Debug\WpfApplication3.exe
+D:\Work\SQL Server工具\WpfApplication3\bin\Debug\WpfApplication3.pdb
+D:\Work\SQL Server工具\WpfApplication3\obj\x86\Debug\UserControl1.baml
+D:\Work\SQL Server工具\WpfApplication3\obj\x86\Debug\Window1.baml
+D:\Work\SQL Server工具\WpfApplication3\obj\x86\Debug\Window2.baml
+D:\Work\SQL Server工具\WpfApplication3\obj\x86\Debug\UserControl1.g.cs
+D:\Work\SQL Server工具\WpfApplication3\obj\x86\Debug\Window1.g.cs
+D:\Work\SQL Server工具\WpfApplication3\obj\x86\Debug\Window2.g.cs
+D:\Work\SQL Server工具\WpfApplication3\obj\x86\Debug\App.g.cs
+D:\Work\SQL Server工具\WpfApplication3\obj\x86\Debug\WpfApplication3_MarkupCompile.cache
+D:\Work\SQL Server工具\WpfApplication3\obj\x86\Debug\WpfApplication3.g.resources
+D:\Work\SQL Server工具\WpfApplication3\obj\x86\Debug\WpfApplication3.Properties.Resources.resources
+D:\Work\SQL Server工具\WpfApplication3\obj\x86\Debug\WpfApplication3.csproj.GenerateResource.Cache
+D:\Work\SQL Server工具\WpfApplication3\obj\x86\Debug\WpfApplication3_MarkupCompile.lref
+D:\Work\SQL Server工具\WpfApplication3\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Work\SQL Server工具\WpfApplication3\obj\x86\Debug\KeyValueInfo.baml
+D:\Work\SQL Server工具\WpfApplication3\obj\x86\Debug\KeyValueInfo.g.cs
+D:\Work\SQL Server工具\WpfApplication3\bin\Debug\MathSoftCommonLib.dll
+D:\Work\SQL Server工具\WpfApplication3\bin\Debug\MathSoftModelLib.dll
+D:\Work\SQL Server工具\WpfApplication3\bin\Debug\Newtonsoft.Json.dll
+D:\Work\SQL Server工具\WpfApplication3\bin\Debug\MathSoftCommonLib.pdb
+D:\Work\SQL Server工具\WpfApplication3\bin\Debug\MathSoftModelLib.pdb
+D:\Work\SQL Server工具\WpfApplication3\bin\Debug\Newtonsoft.Json.xml
+D:\Work\SQL Server工具\WpfApplication3\obj\x86\Debug\WpfApplication3.csprojResolveAssemblyReference.cache
+D:\Work\SQL Server工具\WpfApplication3\bin\Debug\BLL.dll
+D:\Work\SQL Server工具\WpfApplication3\bin\Debug\DataModel.dll
+D:\Work\SQL Server工具\WpfApplication3\bin\Debug\DAL.dll
+D:\Work\SQL Server工具\WpfApplication3\bin\Debug\BLL.pdb
+D:\Work\SQL Server工具\WpfApplication3\bin\Debug\DataModel.pdb
+D:\Work\SQL Server工具\WpfApplication3\bin\Debug\DAL.pdb
+D:\Work\SQL Server工具\WpfApplication3\obj\x86\Debug\Window3.baml
+D:\Work\SQL Server工具\WpfApplication3\obj\x86\Debug\Window3.g.cs
+D:\Work\SQL Server工具\WpfApplication3\obj\x86\Debug\Window4.baml
+D:\Work\SQL Server工具\WpfApplication3\obj\x86\Debug\Window4.g.cs
+D:\Work\SQL Server工具\WpfApplication3\obj\x86\Debug\Window5.baml
+D:\Work\SQL Server工具\WpfApplication3\obj\x86\Debug\Window5.g.cs
+D:\Work\SQL Server工具\WpfApplication3\obj\x86\Debug\Frame.baml
+D:\Work\SQL Server工具\WpfApplication3\obj\x86\Debug\Page1.baml
+D:\Work\SQL Server工具\WpfApplication3\obj\x86\Debug\Page2.baml
+D:\Work\SQL Server工具\WpfApplication3\obj\x86\Debug\Frame.g.cs
+D:\Work\SQL Server工具\WpfApplication3\obj\x86\Debug\Page1.g.cs
+D:\Work\SQL Server工具\WpfApplication3\obj\x86\Debug\Page2.g.cs
+D:\Work\SQL Server工具\WpfApplication3\obj\x86\Debug\Tabs.baml
+D:\Work\SQL Server工具\WpfApplication3\obj\x86\Debug\Tabs.g.cs
+D:\Work\SQL Server工具\WpfApplication3\obj\x86\Debug\批量数据处理窗口.baml
+D:\Work\SQL Server工具\WpfApplication3\obj\x86\Debug\批量数据处理窗口.g.cs
+A:\马良在长城的项目资产\SQL Server工具\WpfApplication3\bin\Debug\WpfApplication3.exe.config
+A:\马良在长城的项目资产\SQL Server工具\WpfApplication3\obj\x86\Debug\WpfApplication3.exe
+A:\马良在长城的项目资产\SQL Server工具\WpfApplication3\obj\x86\Debug\WpfApplication3.pdb
+A:\马良在长城的项目资产\SQL Server工具\WpfApplication3\bin\Debug\WpfApplication3.exe
+A:\马良在长城的项目资产\SQL Server工具\WpfApplication3\bin\Debug\WpfApplication3.pdb
+A:\马良在长城的项目资产\SQL Server工具\WpfApplication3\bin\Debug\BLL.dll
+A:\马良在长城的项目资产\SQL Server工具\WpfApplication3\bin\Debug\DataModel.dll
+A:\马良在长城的项目资产\SQL Server工具\WpfApplication3\bin\Debug\MathSoftCommonLib.dll
+A:\马良在长城的项目资产\SQL Server工具\WpfApplication3\bin\Debug\MathSoftModelLib.dll
+A:\马良在长城的项目资产\SQL Server工具\WpfApplication3\bin\Debug\Newtonsoft.Json.dll
+A:\马良在长城的项目资产\SQL Server工具\WpfApplication3\bin\Debug\DAL.dll
+A:\马良在长城的项目资产\SQL Server工具\WpfApplication3\bin\Debug\MathSoftCommonLib.pdb
+A:\马良在长城的项目资产\SQL Server工具\WpfApplication3\bin\Debug\MathSoftModelLib.pdb
+A:\马良在长城的项目资产\SQL Server工具\WpfApplication3\bin\Debug\BLL.pdb
+A:\马良在长城的项目资产\SQL Server工具\WpfApplication3\bin\Debug\DataModel.pdb
+A:\马良在长城的项目资产\SQL Server工具\WpfApplication3\bin\Debug\Newtonsoft.Json.xml
+A:\马良在长城的项目资产\SQL Server工具\WpfApplication3\bin\Debug\DAL.pdb
+A:\马良在长城的项目资产\SQL Server工具\WpfApplication3\obj\x86\Debug\WpfApplication3.csprojResolveAssemblyReference.cache
+A:\马良在长城的项目资产\SQL Server工具\WpfApplication3\obj\x86\Debug\Frame.baml
+A:\马良在长城的项目资产\SQL Server工具\WpfApplication3\obj\x86\Debug\KeyValueInfo.baml
+A:\马良在长城的项目资产\SQL Server工具\WpfApplication3\obj\x86\Debug\Page1.baml
+A:\马良在长城的项目资产\SQL Server工具\WpfApplication3\obj\x86\Debug\Page2.baml
+A:\马良在长城的项目资产\SQL Server工具\WpfApplication3\obj\x86\Debug\Tabs.baml
+A:\马良在长城的项目资产\SQL Server工具\WpfApplication3\obj\x86\Debug\Window2.baml
+A:\马良在长城的项目资产\SQL Server工具\WpfApplication3\obj\x86\Debug\Window3.baml
+A:\马良在长城的项目资产\SQL Server工具\WpfApplication3\obj\x86\Debug\Window4.baml
+A:\马良在长城的项目资产\SQL Server工具\WpfApplication3\obj\x86\Debug\Window5.baml
+A:\马良在长城的项目资产\SQL Server工具\WpfApplication3\obj\x86\Debug\批量数据处理窗口.baml
+A:\马良在长城的项目资产\SQL Server工具\WpfApplication3\obj\x86\Debug\Frame.g.cs
+A:\马良在长城的项目资产\SQL Server工具\WpfApplication3\obj\x86\Debug\KeyValueInfo.g.cs
+A:\马良在长城的项目资产\SQL Server工具\WpfApplication3\obj\x86\Debug\Page1.g.cs
+A:\马良在长城的项目资产\SQL Server工具\WpfApplication3\obj\x86\Debug\Page2.g.cs
+A:\马良在长城的项目资产\SQL Server工具\WpfApplication3\obj\x86\Debug\Tabs.g.cs
+A:\马良在长城的项目资产\SQL Server工具\WpfApplication3\obj\x86\Debug\UserControl1.g.cs
+A:\马良在长城的项目资产\SQL Server工具\WpfApplication3\obj\x86\Debug\Window1.g.cs
+A:\马良在长城的项目资产\SQL Server工具\WpfApplication3\obj\x86\Debug\Window2.g.cs
+A:\马良在长城的项目资产\SQL Server工具\WpfApplication3\obj\x86\Debug\Window3.g.cs
+A:\马良在长城的项目资产\SQL Server工具\WpfApplication3\obj\x86\Debug\Window4.g.cs
+A:\马良在长城的项目资产\SQL Server工具\WpfApplication3\obj\x86\Debug\Window5.g.cs
+A:\马良在长城的项目资产\SQL Server工具\WpfApplication3\obj\x86\Debug\批量数据处理窗口.g.cs
+A:\马良在长城的项目资产\SQL Server工具\WpfApplication3\obj\x86\Debug\App.g.cs
+A:\马良在长城的项目资产\SQL Server工具\WpfApplication3\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+A:\马良在长城的项目资产\SQL Server工具\WpfApplication3\obj\x86\Debug\WpfApplication3_MarkupCompile.cache
+A:\马良在长城的项目资产\SQL Server工具\WpfApplication3\obj\x86\Debug\WpfApplication3_MarkupCompile.lref
+A:\马良在长城的项目资产\SQL Server工具\WpfApplication3\obj\x86\Debug\UserControl1.baml
+A:\马良在长城的项目资产\SQL Server工具\WpfApplication3\obj\x86\Debug\Window1.baml
+A:\马良在长城的项目资产\SQL Server工具\WpfApplication3\obj\x86\Debug\WpfApplication3.g.resources
+A:\马良在长城的项目资产\SQL Server工具\WpfApplication3\obj\x86\Debug\WpfApplication3.Properties.Resources.resources
+A:\马良在长城的项目资产\SQL Server工具\WpfApplication3\obj\x86\Debug\WpfApplication3.csproj.GenerateResource.Cache
+E:\来自mibook的D盘\马良在长城的项目资产\SQL Server工具\WpfApplication3\bin\Debug\WpfApplication3.exe.config
+E:\来自mibook的D盘\马良在长城的项目资产\SQL Server工具\WpfApplication3\bin\Debug\WpfApplication3.exe
+E:\来自mibook的D盘\马良在长城的项目资产\SQL Server工具\WpfApplication3\bin\Debug\WpfApplication3.pdb
+E:\来自mibook的D盘\马良在长城的项目资产\SQL Server工具\WpfApplication3\bin\Debug\BLL.dll
+E:\来自mibook的D盘\马良在长城的项目资产\SQL Server工具\WpfApplication3\bin\Debug\DataModel.dll
+E:\来自mibook的D盘\马良在长城的项目资产\SQL Server工具\WpfApplication3\bin\Debug\MathSoftCommonLib.dll
+E:\来自mibook的D盘\马良在长城的项目资产\SQL Server工具\WpfApplication3\bin\Debug\MathSoftModelLib.dll
+E:\来自mibook的D盘\马良在长城的项目资产\SQL Server工具\WpfApplication3\bin\Debug\Newtonsoft.Json.dll
+E:\来自mibook的D盘\马良在长城的项目资产\SQL Server工具\WpfApplication3\bin\Debug\DAL.dll
+E:\来自mibook的D盘\马良在长城的项目资产\SQL Server工具\WpfApplication3\bin\Debug\MathSoftCommonLib.pdb
+E:\来自mibook的D盘\马良在长城的项目资产\SQL Server工具\WpfApplication3\bin\Debug\MathSoftModelLib.pdb
+E:\来自mibook的D盘\马良在长城的项目资产\SQL Server工具\WpfApplication3\bin\Debug\BLL.pdb
+E:\来自mibook的D盘\马良在长城的项目资产\SQL Server工具\WpfApplication3\bin\Debug\DataModel.pdb
+E:\来自mibook的D盘\马良在长城的项目资产\SQL Server工具\WpfApplication3\bin\Debug\Newtonsoft.Json.xml
+E:\来自mibook的D盘\马良在长城的项目资产\SQL Server工具\WpfApplication3\bin\Debug\DAL.pdb
+E:\来自mibook的D盘\马良在长城的项目资产\SQL Server工具\WpfApplication3\obj\x86\Debug\WpfApplication3.csprojAssemblyReference.cache
+E:\来自mibook的D盘\马良在长城的项目资产\SQL Server工具\WpfApplication3\obj\x86\Debug\Frame.baml
+E:\来自mibook的D盘\马良在长城的项目资产\SQL Server工具\WpfApplication3\obj\x86\Debug\KeyValueInfo.baml
+E:\来自mibook的D盘\马良在长城的项目资产\SQL Server工具\WpfApplication3\obj\x86\Debug\Page1.baml
+E:\来自mibook的D盘\马良在长城的项目资产\SQL Server工具\WpfApplication3\obj\x86\Debug\Page2.baml
+E:\来自mibook的D盘\马良在长城的项目资产\SQL Server工具\WpfApplication3\obj\x86\Debug\Tabs.baml
+E:\来自mibook的D盘\马良在长城的项目资产\SQL Server工具\WpfApplication3\obj\x86\Debug\Window2.baml
+E:\来自mibook的D盘\马良在长城的项目资产\SQL Server工具\WpfApplication3\obj\x86\Debug\Window3.baml
+E:\来自mibook的D盘\马良在长城的项目资产\SQL Server工具\WpfApplication3\obj\x86\Debug\Window4.baml
+E:\来自mibook的D盘\马良在长城的项目资产\SQL Server工具\WpfApplication3\obj\x86\Debug\Window5.baml
+E:\来自mibook的D盘\马良在长城的项目资产\SQL Server工具\WpfApplication3\obj\x86\Debug\批量数据处理窗口.baml
+E:\来自mibook的D盘\马良在长城的项目资产\SQL Server工具\WpfApplication3\obj\x86\Debug\Frame.g.cs
+E:\来自mibook的D盘\马良在长城的项目资产\SQL Server工具\WpfApplication3\obj\x86\Debug\KeyValueInfo.g.cs
+E:\来自mibook的D盘\马良在长城的项目资产\SQL Server工具\WpfApplication3\obj\x86\Debug\Page1.g.cs
+E:\来自mibook的D盘\马良在长城的项目资产\SQL Server工具\WpfApplication3\obj\x86\Debug\Page2.g.cs
+E:\来自mibook的D盘\马良在长城的项目资产\SQL Server工具\WpfApplication3\obj\x86\Debug\Tabs.g.cs
+E:\来自mibook的D盘\马良在长城的项目资产\SQL Server工具\WpfApplication3\obj\x86\Debug\UserControl1.g.cs
+E:\来自mibook的D盘\马良在长城的项目资产\SQL Server工具\WpfApplication3\obj\x86\Debug\Window1.g.cs
+E:\来自mibook的D盘\马良在长城的项目资产\SQL Server工具\WpfApplication3\obj\x86\Debug\Window2.g.cs
+E:\来自mibook的D盘\马良在长城的项目资产\SQL Server工具\WpfApplication3\obj\x86\Debug\Window3.g.cs
+E:\来自mibook的D盘\马良在长城的项目资产\SQL Server工具\WpfApplication3\obj\x86\Debug\Window4.g.cs
+E:\来自mibook的D盘\马良在长城的项目资产\SQL Server工具\WpfApplication3\obj\x86\Debug\Window5.g.cs
+E:\来自mibook的D盘\马良在长城的项目资产\SQL Server工具\WpfApplication3\obj\x86\Debug\批量数据处理窗口.g.cs
+E:\来自mibook的D盘\马良在长城的项目资产\SQL Server工具\WpfApplication3\obj\x86\Debug\App.g.cs
+E:\来自mibook的D盘\马良在长城的项目资产\SQL Server工具\WpfApplication3\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+E:\来自mibook的D盘\马良在长城的项目资产\SQL Server工具\WpfApplication3\obj\x86\Debug\WpfApplication3_MarkupCompile.cache
+E:\来自mibook的D盘\马良在长城的项目资产\SQL Server工具\WpfApplication3\obj\x86\Debug\WpfApplication3_MarkupCompile.lref
+E:\来自mibook的D盘\马良在长城的项目资产\SQL Server工具\WpfApplication3\obj\x86\Debug\UserControl1.baml
+E:\来自mibook的D盘\马良在长城的项目资产\SQL Server工具\WpfApplication3\obj\x86\Debug\Window1.baml
+E:\来自mibook的D盘\马良在长城的项目资产\SQL Server工具\WpfApplication3\obj\x86\Debug\WpfApplication3.g.resources
+E:\来自mibook的D盘\马良在长城的项目资产\SQL Server工具\WpfApplication3\obj\x86\Debug\WpfApplication3.Properties.Resources.resources
+E:\来自mibook的D盘\马良在长城的项目资产\SQL Server工具\WpfApplication3\obj\x86\Debug\WpfApplication3.csproj.GenerateResource.cache
+E:\来自mibook的D盘\马良在长城的项目资产\SQL Server工具\WpfApplication3\obj\x86\Debug\WpfApplication3.csproj.CoreCompileInputs.cache
+E:\来自mibook的D盘\马良在长城的项目资产\SQL Server工具\WpfApplication3\obj\x86\Debug\WpfApplication3.csproj.CopyComplete
+E:\来自mibook的D盘\马良在长城的项目资产\SQL Server工具\WpfApplication3\obj\x86\Debug\WpfApplication3.exe
+E:\来自mibook的D盘\马良在长城的项目资产\SQL Server工具\WpfApplication3\obj\x86\Debug\WpfApplication3.pdb
+C:\Users\mi\Desktop\SQL Server工具\WpfApplication3\obj\x86\Debug\WpfApplication3.csprojAssemblyReference.cache
+C:\Users\mi\Desktop\SQL Server工具\WpfApplication3\obj\x86\Debug\Frame.baml
+C:\Users\mi\Desktop\SQL Server工具\WpfApplication3\obj\x86\Debug\KeyValueInfo.baml
+C:\Users\mi\Desktop\SQL Server工具\WpfApplication3\obj\x86\Debug\Page1.baml
+C:\Users\mi\Desktop\SQL Server工具\WpfApplication3\obj\x86\Debug\Page2.baml
+C:\Users\mi\Desktop\SQL Server工具\WpfApplication3\obj\x86\Debug\Tabs.baml
+C:\Users\mi\Desktop\SQL Server工具\WpfApplication3\obj\x86\Debug\Window2.baml
+C:\Users\mi\Desktop\SQL Server工具\WpfApplication3\obj\x86\Debug\Window3.baml
+C:\Users\mi\Desktop\SQL Server工具\WpfApplication3\obj\x86\Debug\Window4.baml
+C:\Users\mi\Desktop\SQL Server工具\WpfApplication3\obj\x86\Debug\Window5.baml
+C:\Users\mi\Desktop\SQL Server工具\WpfApplication3\obj\x86\Debug\批量数据处理窗口.baml
+C:\Users\mi\Desktop\SQL Server工具\WpfApplication3\obj\x86\Debug\Frame.g.cs
+C:\Users\mi\Desktop\SQL Server工具\WpfApplication3\obj\x86\Debug\KeyValueInfo.g.cs
+C:\Users\mi\Desktop\SQL Server工具\WpfApplication3\obj\x86\Debug\Page1.g.cs
+C:\Users\mi\Desktop\SQL Server工具\WpfApplication3\obj\x86\Debug\Page2.g.cs
+C:\Users\mi\Desktop\SQL Server工具\WpfApplication3\obj\x86\Debug\Tabs.g.cs
+C:\Users\mi\Desktop\SQL Server工具\WpfApplication3\obj\x86\Debug\UserControl1.g.cs
+C:\Users\mi\Desktop\SQL Server工具\WpfApplication3\obj\x86\Debug\Window1.g.cs
+C:\Users\mi\Desktop\SQL Server工具\WpfApplication3\obj\x86\Debug\Window2.g.cs
+C:\Users\mi\Desktop\SQL Server工具\WpfApplication3\obj\x86\Debug\Window3.g.cs
+C:\Users\mi\Desktop\SQL Server工具\WpfApplication3\obj\x86\Debug\Window4.g.cs
+C:\Users\mi\Desktop\SQL Server工具\WpfApplication3\obj\x86\Debug\Window5.g.cs
+C:\Users\mi\Desktop\SQL Server工具\WpfApplication3\obj\x86\Debug\批量数据处理窗口.g.cs
+C:\Users\mi\Desktop\SQL Server工具\WpfApplication3\obj\x86\Debug\App.g.cs
+C:\Users\mi\Desktop\SQL Server工具\WpfApplication3\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\mi\Desktop\SQL Server工具\WpfApplication3\obj\x86\Debug\WpfApplication3_MarkupCompile.cache
+C:\Users\mi\Desktop\SQL Server工具\WpfApplication3\obj\x86\Debug\WpfApplication3_MarkupCompile.lref
+C:\Users\mi\Desktop\SQL Server工具\WpfApplication3\obj\x86\Debug\WpfApplication3.exe
+C:\Users\mi\Desktop\SQL Server工具\WpfApplication3\obj\x86\Debug\WpfApplication3.pdb
+C:\Users\mi\Desktop\SQL Server工具\WpfApplication3\bin\Debug\WpfApplication3.exe.config
+C:\Users\mi\Desktop\SQL Server工具\WpfApplication3\bin\Debug\WpfApplication3.exe
+C:\Users\mi\Desktop\SQL Server工具\WpfApplication3\bin\Debug\WpfApplication3.pdb
+C:\Users\mi\Desktop\SQL Server工具\WpfApplication3\bin\Debug\BLL.dll
+C:\Users\mi\Desktop\SQL Server工具\WpfApplication3\bin\Debug\DataModel.dll
+C:\Users\mi\Desktop\SQL Server工具\WpfApplication3\bin\Debug\MathSoftCommonLib.dll
+C:\Users\mi\Desktop\SQL Server工具\WpfApplication3\bin\Debug\MathSoftModelLib.dll
+C:\Users\mi\Desktop\SQL Server工具\WpfApplication3\bin\Debug\DAL.dll
+C:\Users\mi\Desktop\SQL Server工具\WpfApplication3\bin\Debug\BLL.pdb
+C:\Users\mi\Desktop\SQL Server工具\WpfApplication3\bin\Debug\DataModel.pdb
+C:\Users\mi\Desktop\SQL Server工具\WpfApplication3\bin\Debug\DAL.pdb
+C:\Users\mi\Desktop\SQL Server工具\WpfApplication3\obj\x86\Debug\UserControl1.baml
+C:\Users\mi\Desktop\SQL Server工具\WpfApplication3\obj\x86\Debug\Window1.baml
+C:\Users\mi\Desktop\SQL Server工具\WpfApplication3\obj\x86\Debug\WpfApplication3.g.resources
+C:\Users\mi\Desktop\SQL Server工具\WpfApplication3\obj\x86\Debug\WpfApplication3.Properties.Resources.resources
+C:\Users\mi\Desktop\SQL Server工具\WpfApplication3\obj\x86\Debug\WpfApplication3.csproj.GenerateResource.cache
+C:\Users\mi\Desktop\SQL Server工具\WpfApplication3\obj\x86\Debug\WpfApplication3.csproj.CoreCompileInputs.cache
+C:\Users\mi\Desktop\SQL Server工具\WpfApplication3\obj\x86\Debug\WpfApplication3.csproj.CopyComplete
